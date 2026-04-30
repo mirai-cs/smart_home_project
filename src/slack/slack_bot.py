@@ -1,4 +1,5 @@
 import os
+import sys
 from slack_bolt import App
 from dotenv import load_dotenv
 from slack_bolt.adapter.socket_mode import SocketModeHandler
@@ -79,7 +80,7 @@ def send_ir_command(labels):
         for label in labels:
             logger.debug(f"sending: {label}")
             subprocess.run(
-                ["python3", SCRIPT_PATH, "-p", "-g", GPIO_PIN, "-f", DATA_FILE, label],
+                [sys.executable, SCRIPT_PATH, "-p", "-g", GPIO_PIN, "-f", DATA_FILE, label],
                 check=True,            
                 capture_output=True,   
                 text=True             

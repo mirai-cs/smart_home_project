@@ -346,3 +346,39 @@
 2026-04-30 12:01:28,683 [INFO] Connected to a new endpoint...
 2026-04-30 12:01:28,880 [INFO] Stopped receiving messages from a connection (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
 2026-04-30 12:01:28,980 [INFO] Starting to receive messages from a new connection (session id: a9c41b99-2926-4087-865c-a00fe7b0b98c)
+2026-04-30 20:33:41,513 [INFO] BME680 initialization successful
+2026-04-30 20:33:50,344 [INFO] A new session has been established (session id: 132573c5-9dc5-437b-ae26-8e4448dcae87)
+2026-04-30 20:33:50,345 [INFO] ⚡️ Bolt app is running!
+2026-04-30 20:33:50,404 [INFO] Starting to receive messages from a new connection (session id: 132573c5-9dc5-437b-ae26-8e4448dcae87)
+2026-04-30 20:35:26,750 [INFO] BME680 initialization successful
+2026-04-30 20:35:29,269 [INFO] A new session has been established (session id: e8ef8d16-1449-4aa9-87b3-c155e6e0164b)
+2026-04-30 20:35:29,270 [INFO] ⚡️ Bolt app is running!
+2026-04-30 20:35:29,328 [INFO] Starting to receive messages from a new connection (session id: e8ef8d16-1449-4aa9-87b3-c155e6e0164b)
+2026-04-30 20:35:44,716 [INFO] send: ['light:on']
+2026-04-30 20:35:56,147 [INFO] send: ['light:warm', 'light:dark', 'light:dark', 'aircon:off']
+2026-04-30 20:36:07,239 [INFO] send: ['light:on']
+2026-04-30 20:41:39,904 [INFO] BME680 initialization successful
+2026-04-30 20:41:42,338 [INFO] A new session has been established (session id: 0aab64ef-a269-4369-80c1-0d7608b85274)
+2026-04-30 20:41:42,339 [INFO] ⚡️ Bolt app is running!
+2026-04-30 20:41:42,390 [INFO] Starting to receive messages from a new connection (session id: 0aab64ef-a269-4369-80c1-0d7608b85274)
+2026-04-30 20:41:53,296 [INFO] send: ['light:on']
+2026-04-30 20:41:53,297 [ERROR] error: name 'sys' is not defined
+Traceback (most recent call last):
+  File "/home/mirai318/smarthome_project/src/slack/slack_bot.py", line 82, in send_ir_command
+    [sys.executable, SCRIPT_PATH, "-p", "-g", GPIO_PIN, "-f", DATA_FILE, label],
+     ^^^
+NameError: name 'sys' is not defined
+2026-04-30 20:42:16,747 [INFO] BME680 initialization successful
+2026-04-30 20:42:19,338 [INFO] A new session has been established (session id: 21cc0b18-40fe-43d8-a7ee-b46dd84981f9)
+2026-04-30 20:42:19,340 [INFO] ⚡️ Bolt app is running!
+2026-04-30 20:42:19,421 [INFO] Starting to receive messages from a new connection (session id: 21cc0b18-40fe-43d8-a7ee-b46dd84981f9)
+2026-04-30 20:42:26,399 [INFO] send: ['light:on']
+2026-04-30 21:58:34,263 [INFO] BME680 initialization successful
+2026-04-30 21:58:36,652 [INFO] A new session has been established (session id: ba69d503-f647-4508-bf25-dc49f8f02222)
+2026-04-30 21:58:36,653 [INFO] ⚡️ Bolt app is running!
+2026-04-30 21:58:36,700 [INFO] Starting to receive messages from a new connection (session id: ba69d503-f647-4508-bf25-dc49f8f02222)
+2026-04-30 21:58:49,951 [INFO] BME680 initialization successful
+2026-04-30 21:59:21,075 [INFO] BME680 initialization successful
+2026-04-30 21:59:23,492 [INFO] A new session has been established (session id: 3b8f16e5-6050-491a-8d77-c26fc1c9f227)
+2026-04-30 21:59:23,493 [INFO] ⚡️ Bolt app is running!
+2026-04-30 21:59:23,518 [INFO] Starting to receive messages from a new connection (session id: 3b8f16e5-6050-491a-8d77-c26fc1c9f227)

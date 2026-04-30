@@ -1,4 +1,5 @@
 .env
+*.log
 smarthome_env
 __pycache__/
 *.pyc

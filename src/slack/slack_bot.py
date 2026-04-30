@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.INFO, 
     format="%(asctime)s [%(levelname)s] %(message)s", 
     handlers=[
-        logging.FileHandler("smart_home.log"),
+        logging.FileHandler("smarthome.log"),
         logging.StreamHandler()
     ]
 )

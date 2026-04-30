@@ -1,8 +1,5 @@
 .env
-slack_test/slack_app/
-# キャッシュファイルを除外
+smarthome_env
 __pycache__/
 *.pyc
-
-# バックアップファイルを除外
 *.bak*

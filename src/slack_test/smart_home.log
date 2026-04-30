@@ -1,0 +1,47 @@
+2026-04-30 18:12:36,974 [ERROR] BME680 Initialization failure
+Traceback (most recent call last):
+  File "/home/mirai318/smarthome_project/src/slack_test/slack_test.py", line 24, in <module>
+    i2c = busio.I2C(board.SCL, board.SDA)
+                    ^^^^^^^^^
+AttributeError: module 'board' has no attribute 'SCL'
+2026-04-30 18:12:39,352 [INFO] A new session has been established (session id: be975de3-84d4-4dce-9b08-dbcd538ab46f)
+2026-04-30 18:12:39,353 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:12:39,412 [INFO] Starting to receive messages from a new connection (session id: be975de3-84d4-4dce-9b08-dbcd538ab46f)
+2026-04-30 18:13:19,656 [ERROR] BME680 Initialization failure
+Traceback (most recent call last):
+  File "/home/mirai318/smarthome_project/src/slack_test/slack_test.py", line 24, in <module>
+    i2c = busio.I2C(board.SCL, board.SDA)
+                    ^^^^^^^^^
+AttributeError: module 'board' has no attribute 'SCL'
+2026-04-30 18:13:22,051 [INFO] A new session has been established (session id: f68935ea-1885-4d13-97c7-2dbec600bdd6)
+2026-04-30 18:13:22,051 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:13:22,085 [INFO] Starting to receive messages from a new connection (session id: f68935ea-1885-4d13-97c7-2dbec600bdd6)
+2026-04-30 18:13:42,006 [INFO] BME680 initialization successful
+2026-04-30 18:13:44,432 [INFO] A new session has been established (session id: 48a33555-5296-4a44-ada2-ee46030f74cc)
+2026-04-30 18:13:44,433 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:13:44,468 [INFO] Starting to receive messages from a new connection (session id: 48a33555-5296-4a44-ada2-ee46030f74cc)
+2026-04-30 18:14:12,567 [INFO] BME680 initialization successful
+2026-04-30 18:14:14,925 [INFO] A new session has been established (session id: bbfbb317-5934-4327-8a90-577703060dd3)
+2026-04-30 18:14:14,926 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:14:15,009 [INFO] Starting to receive messages from a new connection (session id: bbfbb317-5934-4327-8a90-577703060dd3)
+2026-04-30 18:15:51,911 [ERROR] BME680 Initialization failure
+Traceback (most recent call last):
+  File "/home/mirai318/smarthome_project/src/slack_test/slack_test.py", line 24, in <module>
+    i2c = busio.I2C(board.SCL, board.SDA)
+                    ^^^^^^^^^
+AttributeError: module 'board' has no attribute 'SCL'
+2026-04-30 18:15:54,308 [INFO] A new session has been established (session id: 7e8b7cf5-0c71-44fe-927c-217530b929bd)
+2026-04-30 18:15:54,309 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:15:54,353 [INFO] Starting to receive messages from a new connection (session id: 7e8b7cf5-0c71-44fe-927c-217530b929bd)
+2026-04-30 18:18:34,000 [INFO] BME680 initialization successful
+2026-04-30 18:18:36,376 [INFO] A new session has been established (session id: f62d3f1e-d86a-4c72-b9ef-e2d75e3646fa)
+2026-04-30 18:18:36,377 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:18:36,433 [INFO] Starting to receive messages from a new connection (session id: f62d3f1e-d86a-4c72-b9ef-e2d75e3646fa)
+2026-04-30 18:18:53,165 [INFO] send: ['light:warm', 'light:dark', 'light:dark', 'aircon:off']
+2026-04-30 18:18:59,699 [INFO] send: ['light:on']
+2026-04-30 18:19:41,937 [INFO] BME680 initialization successful
+2026-04-30 18:19:44,325 [INFO] A new session has been established (session id: 16a495e6-2d96-45fa-97f1-07256e61d537)
+2026-04-30 18:19:44,327 [INFO] ⚡️ Bolt app is running!
+2026-04-30 18:19:44,373 [INFO] Starting to receive messages from a new connection (session id: 16a495e6-2d96-45fa-97f1-07256e61d537)
+2026-04-30 18:26:50,987 [INFO] send: ['light:on']
+2026-04-30 18:48:12,627 [INFO] send: ['light:on']

@@ -1,0 +1,348 @@
+2026-04-25 03:21:09,818 [INFO] A new session has been established (session id: f0cacb49-4648-495c-a53e-2382b323aec5)
+2026-04-25 03:21:09,819 [INFO] ⚡️ Bolt app is running!
+2026-04-25 03:21:09,913 [INFO] Starting to receive messages from a new connection (session id: f0cacb49-4648-495c-a53e-2382b323aec5)
+2026-04-25 03:21:20,768 [INFO] 送信開始: ['light:on']
+2026-04-25 03:21:28,724 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-25 03:22:15,991 [INFO] A new session has been established (session id: 396cf33c-99b5-4ef8-b69b-d1d5ef06f467)
+2026-04-25 03:22:15,991 [INFO] ⚡️ Bolt app is running!
+2026-04-25 03:22:16,002 [INFO] Starting to receive messages from a new connection (session id: 396cf33c-99b5-4ef8-b69b-d1d5ef06f467)
+2026-04-25 03:22:32,358 [INFO] 送信開始: ['light:on']
+2026-04-25 03:23:13,257 [INFO] A new session has been established (session id: e28fbe4c-7cdd-4379-8e61-a2fae273d8ec)
+2026-04-25 03:23:13,258 [INFO] ⚡️ Bolt app is running!
+2026-04-25 03:23:13,267 [INFO] Starting to receive messages from a new connection (session id: e28fbe4c-7cdd-4379-8e61-a2fae273d8ec)
+2026-04-25 03:24:29,006 [INFO] A new session has been established (session id: b9b0e082-7ea2-40a7-8f4e-04428c3045dc)
+2026-04-25 03:24:29,008 [INFO] ⚡️ Bolt app is running!
+2026-04-25 03:24:29,011 [INFO] Starting to receive messages from a new connection (session id: b9b0e082-7ea2-40a7-8f4e-04428c3045dc)
+2026-04-25 03:24:59,493 [INFO] 送信開始: ['light:on']
+2026-04-25 03:25:19,685 [INFO] 送信開始: ['light:dark']
+2026-04-25 03:28:14,241 [INFO] A new session has been established (session id: 90135be4-6140-4cdb-809e-c11cccb3cd82)
+2026-04-25 03:28:14,242 [INFO] ⚡️ Bolt app is running!
+2026-04-25 03:28:14,258 [INFO] Starting to receive messages from a new connection (session id: 90135be4-6140-4cdb-809e-c11cccb3cd82)
+2026-04-25 03:28:34,337 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-25 03:28:44,778 [INFO] 送信開始: ['light:on']
+2026-04-25 03:28:53,793 [INFO] 送信開始: ['light:dark']
+2026-04-25 03:35:30,674 [INFO] 送信開始: ['light:dark']
+2026-04-25 03:35:41,120 [INFO] 送信開始: ['light:on']
+2026-04-25 03:37:38,556 [INFO] 送信開始: ['light:dark']
+2026-04-25 03:37:59,160 [INFO] 送信開始: ['light:dark']
+2026-04-25 03:38:05,874 [INFO] 送信開始: ['light:dark']
+2026-04-25 08:00:02,269 [INFO] 送信開始: ['light:on']
+2026-04-25 08:28:16,776 [INFO] Connecting to a new endpoint...
+2026-04-25 08:28:19,781 [INFO] The connection has been closed (session id: 90135be4-6140-4cdb-809e-c11cccb3cd82)
+2026-04-25 08:28:19,781 [INFO] A new session has been established (session id: 88fd1184-8b75-4a03-8351-c440abd6dae9)
+2026-04-25 08:28:19,782 [INFO] Connected to a new endpoint...
+2026-04-25 08:28:19,797 [INFO] Stopped receiving messages from a connection (session id: 90135be4-6140-4cdb-809e-c11cccb3cd82)
+2026-04-25 08:28:19,898 [INFO] Starting to receive messages from a new connection (session id: 88fd1184-8b75-4a03-8351-c440abd6dae9)
+2026-04-25 09:28:36,566 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-25 09:28:52,936 [INFO] 送信開始: ['aircon:off']
+2026-04-25 13:28:21,621 [INFO] Connecting to a new endpoint...
+2026-04-25 13:28:24,475 [INFO] The connection has been closed (session id: 88fd1184-8b75-4a03-8351-c440abd6dae9)
+2026-04-25 13:28:24,477 [INFO] Stopped receiving messages from a connection (session id: 88fd1184-8b75-4a03-8351-c440abd6dae9)
+2026-04-25 13:28:24,478 [INFO] A new session has been established (session id: 76a486de-12e6-496f-9324-2b6811700c59)
+2026-04-25 13:28:24,479 [INFO] Connected to a new endpoint...
+2026-04-25 13:28:24,579 [INFO] Starting to receive messages from a new connection (session id: 76a486de-12e6-496f-9324-2b6811700c59)
+2026-04-25 18:28:23,636 [INFO] Connecting to a new endpoint...
+2026-04-25 18:28:27,710 [INFO] The connection has been closed (session id: 76a486de-12e6-496f-9324-2b6811700c59)
+2026-04-25 18:28:27,711 [INFO] A new session has been established (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5)
+2026-04-25 18:28:27,711 [INFO] Connected to a new endpoint...
+2026-04-25 18:28:27,727 [INFO] Stopped receiving messages from a connection (session id: 76a486de-12e6-496f-9324-2b6811700c59)
+2026-04-25 18:28:27,828 [INFO] Starting to receive messages from a new connection (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5)
+2026-04-25 20:29:25,336 [INFO] 送信開始: ['aircon:on:cooler']
+2026-04-25 21:31:29,642 [INFO] 送信開始: ['light:on']
+2026-04-25 21:34:13,209 [INFO] 送信開始: ['aircon:on:cooler']
+2026-04-25 21:34:19,973 [INFO] 送信開始: ['aircon:off']
+2026-04-25 22:37:40,966 [INFO] Unable to send a ping message. Closing the connection... (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5, reason: TLS/SSL connection has been closed (EOF) (_ssl.c:2393))
+2026-04-25 22:37:40,967 [INFO] The connection has been closed (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5)
+2026-04-25 22:37:40,975 [INFO] The session seems to be already closed. Reconnecting... (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5)
+2026-04-25 22:37:40,976 [INFO] Connecting to a new endpoint...
+2026-04-25 22:37:42,917 [INFO] The connection has been closed (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5)
+2026-04-25 22:37:42,918 [INFO] A new session has been established (session id: e982cd47-609d-4e5d-9c3a-9c213a2a5f9f)
+2026-04-25 22:37:42,918 [INFO] Connected to a new endpoint...
+2026-04-25 22:37:42,969 [INFO] Stopped receiving messages from a connection (session id: 956bb2f0-96a7-4f69-96e7-a26f44359ee5)
+2026-04-25 22:37:43,070 [INFO] Starting to receive messages from a new connection (session id: e982cd47-609d-4e5d-9c3a-9c213a2a5f9f)
+2026-04-26 00:39:03,744 [INFO] 送信開始: ['light:warm']
+2026-04-26 00:39:24,303 [INFO] 送信開始: ['light:dark']
+2026-04-26 00:46:27,557 [INFO] 送信開始: ['aircon:on:dry']
+2026-04-26 03:37:51,651 [INFO] Connecting to a new endpoint...
+2026-04-26 03:37:54,653 [INFO] The connection has been closed (session id: e982cd47-609d-4e5d-9c3a-9c213a2a5f9f)
+2026-04-26 03:37:54,653 [INFO] A new session has been established (session id: f50d207c-8dec-4967-b4d8-44aea80fab19)
+2026-04-26 03:37:54,654 [INFO] Connected to a new endpoint...
+2026-04-26 03:37:54,669 [INFO] Stopped receiving messages from a connection (session id: e982cd47-609d-4e5d-9c3a-9c213a2a5f9f)
+2026-04-26 03:37:54,770 [INFO] Starting to receive messages from a new connection (session id: f50d207c-8dec-4967-b4d8-44aea80fab19)
+2026-04-26 07:00:04,468 [INFO] 送信開始: ['light:on']
+2026-04-26 08:11:41,512 [INFO] 送信開始: ['aircon:off']
+2026-04-26 08:37:56,977 [INFO] Connecting to a new endpoint...
+2026-04-26 08:38:01,280 [INFO] The connection has been closed (session id: f50d207c-8dec-4967-b4d8-44aea80fab19)
+2026-04-26 08:38:01,281 [INFO] A new session has been established (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb)
+2026-04-26 08:38:01,282 [INFO] Connected to a new endpoint...
+2026-04-26 08:38:01,297 [INFO] Stopped receiving messages from a connection (session id: f50d207c-8dec-4967-b4d8-44aea80fab19)
+2026-04-26 08:38:01,398 [INFO] Starting to receive messages from a new connection (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb)
+2026-04-26 11:47:27,729 [INFO] Unable to send a ping message. Closing the connection... (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb, reason: TLS/SSL connection has been closed (EOF) (_ssl.c:2393))
+2026-04-26 11:47:27,818 [INFO] The connection has been closed (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb)
+2026-04-26 11:47:27,825 [INFO] The session seems to be already closed. Reconnecting... (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb)
+2026-04-26 11:47:27,826 [INFO] Connecting to a new endpoint...
+2026-04-26 11:47:29,422 [INFO] The connection has been closed (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb)
+2026-04-26 11:47:29,423 [INFO] A new session has been established (session id: d6f1d8f8-2ad3-480f-85fc-90eebffaecfd)
+2026-04-26 11:47:29,423 [INFO] Connected to a new endpoint...
+2026-04-26 11:47:29,619 [INFO] Stopped receiving messages from a connection (session id: 0d21cc29-e34d-4bd6-9fc4-bb8873cbafeb)
+2026-04-26 11:47:29,720 [INFO] Starting to receive messages from a new connection (session id: d6f1d8f8-2ad3-480f-85fc-90eebffaecfd)
+2026-04-26 16:47:34,140 [INFO] Connecting to a new endpoint...
+2026-04-26 16:47:37,145 [INFO] The connection has been closed (session id: d6f1d8f8-2ad3-480f-85fc-90eebffaecfd)
+2026-04-26 16:47:37,145 [INFO] A new session has been established (session id: 08f2a2bb-5dbf-45b2-b707-28f07432e53a)
+2026-04-26 16:47:37,146 [INFO] Connected to a new endpoint...
+2026-04-26 16:47:37,161 [INFO] Stopped receiving messages from a connection (session id: d6f1d8f8-2ad3-480f-85fc-90eebffaecfd)
+2026-04-26 16:47:37,262 [INFO] Starting to receive messages from a new connection (session id: 08f2a2bb-5dbf-45b2-b707-28f07432e53a)
+2026-04-26 16:47:37,263 [INFO] Connecting to a new endpoint...
+2026-04-26 16:47:40,267 [INFO] The connection has been closed (session id: 08f2a2bb-5dbf-45b2-b707-28f07432e53a)
+2026-04-26 16:47:40,268 [INFO] A new session has been established (session id: 4f8e5dee-4de8-4f49-adde-09fc4b3a1b92)
+2026-04-26 16:47:40,269 [INFO] Connected to a new endpoint...
+2026-04-26 16:47:40,287 [INFO] Stopped receiving messages from a connection (session id: 08f2a2bb-5dbf-45b2-b707-28f07432e53a)
+2026-04-26 16:47:40,389 [INFO] Starting to receive messages from a new connection (session id: 4f8e5dee-4de8-4f49-adde-09fc4b3a1b92)
+2026-04-26 16:47:40,393 [INFO] Connecting to a new endpoint...
+2026-04-26 16:47:43,395 [INFO] The connection has been closed (session id: 4f8e5dee-4de8-4f49-adde-09fc4b3a1b92)
+2026-04-26 16:47:43,395 [INFO] A new session has been established (session id: 794cc5c9-909e-4202-9732-f3d82b270bcb)
+2026-04-26 16:47:43,395 [INFO] Connected to a new endpoint...
+2026-04-26 16:47:43,411 [INFO] Stopped receiving messages from a connection (session id: 4f8e5dee-4de8-4f49-adde-09fc4b3a1b92)
+2026-04-26 16:47:43,512 [INFO] Starting to receive messages from a new connection (session id: 794cc5c9-909e-4202-9732-f3d82b270bcb)
+2026-04-26 21:47:44,239 [INFO] Connecting to a new endpoint...
+2026-04-26 21:47:47,243 [INFO] The connection has been closed (session id: 794cc5c9-909e-4202-9732-f3d82b270bcb)
+2026-04-26 21:47:47,244 [INFO] A new session has been established (session id: b6c42e2c-90e3-4fe7-877a-ef4d7f1f7afb)
+2026-04-26 21:47:47,244 [INFO] Connected to a new endpoint...
+2026-04-26 21:47:47,259 [INFO] Stopped receiving messages from a connection (session id: 794cc5c9-909e-4202-9732-f3d82b270bcb)
+2026-04-26 21:47:47,360 [INFO] Starting to receive messages from a new connection (session id: b6c42e2c-90e3-4fe7-877a-ef4d7f1f7afb)
+2026-04-26 21:47:47,364 [INFO] Connecting to a new endpoint...
+2026-04-26 21:47:50,363 [INFO] The connection has been closed (session id: b6c42e2c-90e3-4fe7-877a-ef4d7f1f7afb)
+2026-04-26 21:47:50,364 [INFO] A new session has been established (session id: 090c68fa-eeb7-4529-af38-7abb62528a5e)
+2026-04-26 21:47:50,364 [INFO] Connected to a new endpoint...
+2026-04-26 21:47:50,383 [INFO] Stopped receiving messages from a connection (session id: b6c42e2c-90e3-4fe7-877a-ef4d7f1f7afb)
+2026-04-26 21:47:50,484 [INFO] Starting to receive messages from a new connection (session id: 090c68fa-eeb7-4529-af38-7abb62528a5e)
+2026-04-27 00:46:22,918 [INFO] 送信開始: ['light:dark']
+2026-04-27 00:46:30,349 [INFO] 送信開始: ['aircon:on:dry']
+2026-04-27 02:47:55,592 [INFO] Connecting to a new endpoint...
+2026-04-27 02:47:58,596 [INFO] The connection has been closed (session id: 090c68fa-eeb7-4529-af38-7abb62528a5e)
+2026-04-27 02:47:58,596 [INFO] A new session has been established (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f)
+2026-04-27 02:47:58,597 [INFO] Connected to a new endpoint...
+2026-04-27 02:47:58,612 [INFO] Stopped receiving messages from a connection (session id: 090c68fa-eeb7-4529-af38-7abb62528a5e)
+2026-04-27 02:47:58,713 [INFO] Starting to receive messages from a new connection (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f)
+2026-04-27 04:35:05,438 [INFO] Unable to send a ping message. Closing the connection... (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f, reason: TLS/SSL connection has been closed (EOF) (_ssl.c:2393))
+2026-04-27 04:35:05,439 [INFO] The connection has been closed (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f)
+2026-04-27 04:35:05,448 [INFO] The session seems to be already closed. Reconnecting... (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f)
+2026-04-27 04:35:05,449 [INFO] Connecting to a new endpoint...
+2026-04-27 04:35:07,095 [INFO] The connection has been closed (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f)
+2026-04-27 04:35:07,095 [INFO] A new session has been established (session id: 74553656-a71a-4e92-84f3-a79bb8fb19e2)
+2026-04-27 04:35:07,096 [INFO] Connected to a new endpoint...
+2026-04-27 04:35:07,241 [INFO] Stopped receiving messages from a connection (session id: e2235b40-b3bb-4883-8b57-4b3fa1febf0f)
+2026-04-27 04:35:07,342 [INFO] Starting to receive messages from a new connection (session id: 74553656-a71a-4e92-84f3-a79bb8fb19e2)
+2026-04-27 07:00:06,548 [INFO] 送信開始: ['light:on']
+2026-04-27 09:35:09,220 [INFO] Connecting to a new endpoint...
+2026-04-27 09:35:12,225 [INFO] The connection has been closed (session id: 74553656-a71a-4e92-84f3-a79bb8fb19e2)
+2026-04-27 09:35:12,225 [INFO] A new session has been established (session id: dcd062d8-29d1-4a04-a525-a940fdd28f82)
+2026-04-27 09:35:12,226 [INFO] Connected to a new endpoint...
+2026-04-27 09:35:12,241 [INFO] Stopped receiving messages from a connection (session id: 74553656-a71a-4e92-84f3-a79bb8fb19e2)
+2026-04-27 09:35:12,342 [INFO] Starting to receive messages from a new connection (session id: dcd062d8-29d1-4a04-a525-a940fdd28f82)
+2026-04-27 09:35:12,343 [INFO] Connecting to a new endpoint...
+2026-04-27 09:35:15,345 [INFO] The connection has been closed (session id: dcd062d8-29d1-4a04-a525-a940fdd28f82)
+2026-04-27 09:35:15,346 [INFO] A new session has been established (session id: ebdc8d93-fffa-4ce0-820f-489c114bb3c4)
+2026-04-27 09:35:15,347 [INFO] Connected to a new endpoint...
+2026-04-27 09:35:15,367 [INFO] Stopped receiving messages from a connection (session id: dcd062d8-29d1-4a04-a525-a940fdd28f82)
+2026-04-27 09:35:15,468 [INFO] Starting to receive messages from a new connection (session id: ebdc8d93-fffa-4ce0-820f-489c114bb3c4)
+2026-04-27 09:35:15,472 [INFO] Connecting to a new endpoint...
+2026-04-27 09:35:18,473 [INFO] The connection has been closed (session id: ebdc8d93-fffa-4ce0-820f-489c114bb3c4)
+2026-04-27 09:35:18,474 [INFO] A new session has been established (session id: 84fef04a-d1f8-4bc5-adac-ffab59ddec06)
+2026-04-27 09:35:18,474 [INFO] Connected to a new endpoint...
+2026-04-27 09:35:18,490 [INFO] Stopped receiving messages from a connection (session id: ebdc8d93-fffa-4ce0-820f-489c114bb3c4)
+2026-04-27 09:35:18,591 [INFO] Starting to receive messages from a new connection (session id: 84fef04a-d1f8-4bc5-adac-ffab59ddec06)
+2026-04-27 09:35:18,595 [INFO] Connecting to a new endpoint...
+2026-04-27 09:35:21,599 [INFO] The connection has been closed (session id: 84fef04a-d1f8-4bc5-adac-ffab59ddec06)
+2026-04-27 09:35:21,600 [INFO] A new session has been established (session id: d87292ce-6a8a-45ff-b77a-1ec6afa78c9b)
+2026-04-27 09:35:21,600 [INFO] Connected to a new endpoint...
+2026-04-27 09:35:21,621 [INFO] Stopped receiving messages from a connection (session id: 84fef04a-d1f8-4bc5-adac-ffab59ddec06)
+2026-04-27 09:35:21,723 [INFO] Starting to receive messages from a new connection (session id: d87292ce-6a8a-45ff-b77a-1ec6afa78c9b)
+2026-04-27 09:35:21,726 [INFO] Connecting to a new endpoint...
+2026-04-27 09:35:24,728 [INFO] The connection has been closed (session id: d87292ce-6a8a-45ff-b77a-1ec6afa78c9b)
+2026-04-27 09:35:24,729 [INFO] A new session has been established (session id: e0da2bfb-7038-4feb-859c-3bfda5b66618)
+2026-04-27 09:35:24,729 [INFO] Connected to a new endpoint...
+2026-04-27 09:35:24,744 [INFO] Stopped receiving messages from a connection (session id: d87292ce-6a8a-45ff-b77a-1ec6afa78c9b)
+2026-04-27 09:35:24,846 [INFO] Starting to receive messages from a new connection (session id: e0da2bfb-7038-4feb-859c-3bfda5b66618)
+2026-04-27 09:35:24,850 [INFO] Connecting to a new endpoint...
+2026-04-27 09:35:27,851 [INFO] The connection has been closed (session id: e0da2bfb-7038-4feb-859c-3bfda5b66618)
+2026-04-27 09:35:27,853 [INFO] A new session has been established (session id: a839cc66-c938-4497-9ff5-20cf3012db60)
+2026-04-27 09:35:27,854 [INFO] Connected to a new endpoint...
+2026-04-27 09:35:27,871 [INFO] Stopped receiving messages from a connection (session id: e0da2bfb-7038-4feb-859c-3bfda5b66618)
+2026-04-27 09:35:27,972 [INFO] Starting to receive messages from a new connection (session id: a839cc66-c938-4497-9ff5-20cf3012db60)
+2026-04-27 09:44:39,062 [INFO] Unable to send a ping message. Closing the connection... (session id: a839cc66-c938-4497-9ff5-20cf3012db60, reason: TLS/SSL connection has been closed (EOF) (_ssl.c:2393))
+2026-04-27 09:44:39,082 [INFO] The connection has been closed (session id: a839cc66-c938-4497-9ff5-20cf3012db60)
+2026-04-27 09:44:39,090 [INFO] The session seems to be already closed. Reconnecting... (session id: a839cc66-c938-4497-9ff5-20cf3012db60)
+2026-04-27 09:44:39,090 [INFO] Connecting to a new endpoint...
+2026-04-27 09:44:40,729 [INFO] The connection has been closed (session id: a839cc66-c938-4497-9ff5-20cf3012db60)
+2026-04-27 09:44:40,730 [INFO] A new session has been established (session id: e39c5f6d-3f54-4c8e-945a-6e31c12372b1)
+2026-04-27 09:44:40,731 [INFO] Connected to a new endpoint...
+2026-04-27 09:44:40,884 [INFO] Stopped receiving messages from a connection (session id: a839cc66-c938-4497-9ff5-20cf3012db60)
+2026-04-27 09:44:40,985 [INFO] Starting to receive messages from a new connection (session id: e39c5f6d-3f54-4c8e-945a-6e31c12372b1)
+2026-04-27 10:55:13,673 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-27 10:55:27,740 [INFO] 送信開始: ['aircon:off']
+2026-04-27 14:44:44,880 [INFO] Connecting to a new endpoint...
+2026-04-27 14:44:47,885 [INFO] The connection has been closed (session id: e39c5f6d-3f54-4c8e-945a-6e31c12372b1)
+2026-04-27 14:44:47,885 [INFO] A new session has been established (session id: 30a70bb4-0030-4db5-8435-e0c3fae729f6)
+2026-04-27 14:44:47,886 [INFO] Connected to a new endpoint...
+2026-04-27 14:44:47,903 [INFO] Stopped receiving messages from a connection (session id: e39c5f6d-3f54-4c8e-945a-6e31c12372b1)
+2026-04-27 14:44:48,004 [INFO] Starting to receive messages from a new connection (session id: 30a70bb4-0030-4db5-8435-e0c3fae729f6)
+2026-04-27 16:16:23,214 [INFO] 送信開始: ['aircon:on:cooler']
+2026-04-27 16:16:37,399 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-27 19:44:48,143 [INFO] Connecting to a new endpoint...
+2026-04-27 19:44:51,145 [INFO] The connection has been closed (session id: 30a70bb4-0030-4db5-8435-e0c3fae729f6)
+2026-04-27 19:44:51,146 [INFO] A new session has been established (session id: ff179263-eef2-4a17-ad1d-1a2d6c4267ed)
+2026-04-27 19:44:51,146 [INFO] Connected to a new endpoint...
+2026-04-27 19:44:51,162 [INFO] Stopped receiving messages from a connection (session id: 30a70bb4-0030-4db5-8435-e0c3fae729f6)
+2026-04-27 19:44:51,263 [INFO] Starting to receive messages from a new connection (session id: ff179263-eef2-4a17-ad1d-1a2d6c4267ed)
+2026-04-28 00:44:59,581 [INFO] Connecting to a new endpoint...
+2026-04-28 00:45:02,583 [INFO] The connection has been closed (session id: ff179263-eef2-4a17-ad1d-1a2d6c4267ed)
+2026-04-28 00:45:02,584 [INFO] A new session has been established (session id: b266ad66-d2c2-40e0-b525-c6deb57b91cf)
+2026-04-28 00:45:02,584 [INFO] Connected to a new endpoint...
+2026-04-28 00:45:02,600 [INFO] Stopped receiving messages from a connection (session id: ff179263-eef2-4a17-ad1d-1a2d6c4267ed)
+2026-04-28 00:45:02,701 [INFO] Starting to receive messages from a new connection (session id: b266ad66-d2c2-40e0-b525-c6deb57b91cf)
+2026-04-28 03:43:16,986 [INFO] 送信開始: ['light:dark']
+2026-04-28 03:43:28,775 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-28 03:43:49,345 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-28 05:45:03,029 [INFO] Connecting to a new endpoint...
+2026-04-28 05:45:06,435 [INFO] The connection has been closed (session id: b266ad66-d2c2-40e0-b525-c6deb57b91cf)
+2026-04-28 05:45:06,436 [INFO] A new session has been established (session id: b46a44e6-b827-49a1-b5fc-80c957334704)
+2026-04-28 05:45:06,436 [INFO] Connected to a new endpoint...
+2026-04-28 05:45:06,452 [INFO] Stopped receiving messages from a connection (session id: b266ad66-d2c2-40e0-b525-c6deb57b91cf)
+2026-04-28 05:45:06,553 [INFO] Starting to receive messages from a new connection (session id: b46a44e6-b827-49a1-b5fc-80c957334704)
+2026-04-28 09:25:03,407 [INFO] 送信開始: ['light:on']
+2026-04-28 10:40:53,551 [INFO] 送信開始: ['light:dark', 'light:dark']
+2026-04-28 10:40:56,156 [INFO] 送信開始: ['aircon:off']
+2026-04-28 10:45:08,872 [INFO] Connecting to a new endpoint...
+2026-04-28 10:45:12,754 [INFO] The connection has been closed (session id: b46a44e6-b827-49a1-b5fc-80c957334704)
+2026-04-28 10:45:12,755 [INFO] A new session has been established (session id: 93035e79-0880-45fa-b65a-1d2e4e764961)
+2026-04-28 10:45:12,756 [INFO] Connected to a new endpoint...
+2026-04-28 10:45:12,771 [INFO] Stopped receiving messages from a connection (session id: b46a44e6-b827-49a1-b5fc-80c957334704)
+2026-04-28 10:45:12,871 [INFO] Starting to receive messages from a new connection (session id: 93035e79-0880-45fa-b65a-1d2e4e764961)
+2026-04-28 15:45:16,064 [INFO] Connecting to a new endpoint...
+2026-04-28 15:45:19,749 [INFO] The connection has been closed (session id: 93035e79-0880-45fa-b65a-1d2e4e764961)
+2026-04-28 15:45:19,750 [INFO] A new session has been established (session id: 6178e151-2253-451a-80b3-d031991932f6)
+2026-04-28 15:45:19,750 [INFO] Connected to a new endpoint...
+2026-04-28 15:45:19,766 [INFO] Stopped receiving messages from a connection (session id: 93035e79-0880-45fa-b65a-1d2e4e764961)
+2026-04-28 15:45:19,867 [INFO] Starting to receive messages from a new connection (session id: 6178e151-2253-451a-80b3-d031991932f6)
+2026-04-28 20:45:19,163 [INFO] Connecting to a new endpoint...
+2026-04-28 20:45:22,166 [INFO] The connection has been closed (session id: 6178e151-2253-451a-80b3-d031991932f6)
+2026-04-28 20:45:22,167 [INFO] A new session has been established (session id: 6e55c379-773a-42b5-92f9-41f4a3b701b1)
+2026-04-28 20:45:22,167 [INFO] Connected to a new endpoint...
+2026-04-28 20:45:22,183 [INFO] Stopped receiving messages from a connection (session id: 6178e151-2253-451a-80b3-d031991932f6)
+2026-04-28 20:45:22,284 [INFO] Starting to receive messages from a new connection (session id: 6e55c379-773a-42b5-92f9-41f4a3b701b1)
+2026-04-28 20:55:57,039 [INFO] 送信開始: ['aircon:off']
+2026-04-28 21:01:35,114 [INFO] A new session has been established (session id: f790d3fe-c3d3-49bb-95a4-4b275d47b2f6)
+2026-04-28 21:01:35,115 [INFO] ⚡️ Bolt app is running!
+2026-04-28 21:01:35,182 [INFO] Starting to receive messages from a new connection (session id: f790d3fe-c3d3-49bb-95a4-4b275d47b2f6)
+2026-04-28 21:01:43,987 [INFO] 送信開始: ['light off', 'aircon off']
+2026-04-28 21:01:57,643 [INFO] 送信開始: ['aircon:off']
+2026-04-28 21:02:09,447 [INFO] 送信開始: ['light:dark']
+2026-04-28 21:02:18,506 [INFO] 送信開始: ['light off', 'aircon off']
+2026-04-28 21:03:02,615 [INFO] A new session has been established (session id: f7c05a01-2319-421d-aa64-1e9dd05f8bb0)
+2026-04-28 21:03:02,616 [INFO] ⚡️ Bolt app is running!
+2026-04-28 21:03:02,672 [INFO] Starting to receive messages from a new connection (session id: f7c05a01-2319-421d-aa64-1e9dd05f8bb0)
+2026-04-28 21:03:09,707 [INFO] 送信開始: ['light:off', 'aircon:off']
+2026-04-28 21:03:26,972 [INFO] 送信開始: ['light:on']
+2026-04-28 21:03:33,090 [INFO] 送信開始: ['light:off', 'aircon:off']
+2026-04-28 21:04:04,755 [INFO] A new session has been established (session id: 216b53e2-9fa2-4fce-9993-96bc818c0b22)
+2026-04-28 21:04:04,756 [INFO] ⚡️ Bolt app is running!
+2026-04-28 21:04:04,813 [INFO] Starting to receive messages from a new connection (session id: 216b53e2-9fa2-4fce-9993-96bc818c0b22)
+2026-04-28 21:04:08,712 [INFO] 送信開始: ['light:warm', 'light:dark', 'light dark']
+2026-04-28 21:04:43,227 [INFO] A new session has been established (session id: 2347e14c-4355-439e-a148-fda502a2a18b)
+2026-04-28 21:04:43,228 [INFO] ⚡️ Bolt app is running!
+2026-04-28 21:04:43,268 [INFO] Starting to receive messages from a new connection (session id: 2347e14c-4355-439e-a148-fda502a2a18b)
+2026-04-28 21:04:49,521 [INFO] 送信開始: ['light:on']
+2026-04-28 21:04:53,038 [INFO] 送信開始: ['light:warm', 'light:dark', 'light:dark', 'aircon:off']
+2026-04-28 21:05:06,516 [INFO] 送信開始: ['light:warm', 'light:dark', 'light:dark']
+2026-04-28 21:05:14,984 [INFO] 送信開始: ['light:dark']
+2026-04-28 21:05:21,489 [INFO] 送信開始: ['light:on']
+2026-04-28 21:05:24,660 [INFO] 送信開始: ['light:dark']
+2026-04-28 21:05:29,609 [INFO] 送信開始: ['light:warm']
+2026-04-28 21:07:20,635 [INFO] A new session has been established (session id: 82b088d7-92e5-423e-83c9-e1f24fb37963)
+2026-04-28 21:07:20,638 [INFO] ⚡️ Bolt app is running!
+2026-04-28 21:07:20,698 [INFO] Starting to receive messages from a new connection (session id: 82b088d7-92e5-423e-83c9-e1f24fb37963)
+2026-04-28 21:07:56,749 [INFO] 送信開始: ['light:warm', 'light:dark', 'light:dark', 'aircon:off']
+2026-04-28 21:08:04,630 [INFO] 送信開始: ['light:on']
+2026-04-29 02:07:28,220 [INFO] Connecting to a new endpoint...
+2026-04-29 02:07:31,224 [INFO] The connection has been closed (session id: 82b088d7-92e5-423e-83c9-e1f24fb37963)
+2026-04-29 02:07:31,224 [INFO] A new session has been established (session id: 72cded77-3b82-4473-9e8c-85715c66b9b2)
+2026-04-29 02:07:31,225 [INFO] Connected to a new endpoint...
+2026-04-29 02:07:31,240 [INFO] Stopped receiving messages from a connection (session id: 82b088d7-92e5-423e-83c9-e1f24fb37963)
+2026-04-29 02:07:31,341 [INFO] Starting to receive messages from a new connection (session id: 72cded77-3b82-4473-9e8c-85715c66b9b2)
+2026-04-29 02:33:42,494 [INFO] 送信開始: ['light:dark']
+2026-04-29 02:38:01,604 [INFO] 送信開始: ['aircon:on:cooler']
+2026-04-29 07:07:31,899 [INFO] Connecting to a new endpoint...
+2026-04-29 07:07:34,903 [INFO] The connection has been closed (session id: 72cded77-3b82-4473-9e8c-85715c66b9b2)
+2026-04-29 07:07:34,905 [INFO] The session seems to be already closed. Reconnecting... (session id: 72cded77-3b82-4473-9e8c-85715c66b9b2)
+2026-04-29 07:07:34,905 [INFO] A new session has been established (session id: 25f308d6-7374-4979-a3b3-c0387ee9b6f5)
+2026-04-29 07:07:34,906 [INFO] Connected to a new endpoint...
+2026-04-29 07:07:34,920 [INFO] Stopped receiving messages from a connection (session id: 72cded77-3b82-4473-9e8c-85715c66b9b2)
+2026-04-29 07:07:35,021 [INFO] Starting to receive messages from a new connection (session id: 25f308d6-7374-4979-a3b3-c0387ee9b6f5)
+2026-04-29 12:07:36,458 [INFO] Connecting to a new endpoint...
+2026-04-29 12:07:38,248 [INFO] The connection has been closed (session id: 25f308d6-7374-4979-a3b3-c0387ee9b6f5)
+2026-04-29 12:07:38,251 [INFO] Stopped receiving messages from a connection (session id: 25f308d6-7374-4979-a3b3-c0387ee9b6f5)
+2026-04-29 12:07:38,252 [INFO] A new session has been established (session id: 1a04b5f4-e7a6-4055-b22f-0eac452ba983)
+2026-04-29 12:07:38,252 [INFO] Connected to a new endpoint...
+2026-04-29 12:07:38,352 [INFO] Starting to receive messages from a new connection (session id: 1a04b5f4-e7a6-4055-b22f-0eac452ba983)
+2026-04-29 13:09:17,333 [INFO] 送信開始: ['light:on']
+2026-04-29 14:22:59,333 [INFO] 送信開始: ['aircon:off']
+2026-04-29 17:07:46,985 [INFO] Connecting to a new endpoint...
+2026-04-29 17:07:50,037 [INFO] The connection has been closed (session id: 1a04b5f4-e7a6-4055-b22f-0eac452ba983)
+2026-04-29 17:07:50,040 [INFO] Stopped receiving messages from a connection (session id: 1a04b5f4-e7a6-4055-b22f-0eac452ba983)
+2026-04-29 17:07:50,041 [INFO] A new session has been established (session id: 635b059a-88d1-41e7-b192-c5c7603c010c)
+2026-04-29 17:07:50,042 [INFO] Connected to a new endpoint...
+2026-04-29 17:07:50,142 [INFO] Starting to receive messages from a new connection (session id: 635b059a-88d1-41e7-b192-c5c7603c010c)
+2026-04-29 22:07:51,208 [INFO] Connecting to a new endpoint...
+2026-04-29 22:07:54,393 [INFO] The connection has been closed (session id: 635b059a-88d1-41e7-b192-c5c7603c010c)
+2026-04-29 22:07:54,393 [INFO] A new session has been established (session id: f6f75285-d920-46f0-a90a-41e98a4a522d)
+2026-04-29 22:07:54,394 [INFO] Connected to a new endpoint...
+2026-04-29 22:07:54,409 [INFO] Stopped receiving messages from a connection (session id: 635b059a-88d1-41e7-b192-c5c7603c010c)
+2026-04-29 22:07:54,510 [INFO] Starting to receive messages from a new connection (session id: f6f75285-d920-46f0-a90a-41e98a4a522d)
+2026-04-29 22:07:54,514 [INFO] Connecting to a new endpoint...
+2026-04-29 22:07:57,515 [INFO] The connection has been closed (session id: f6f75285-d920-46f0-a90a-41e98a4a522d)
+2026-04-29 22:07:57,516 [INFO] A new session has been established (session id: 43dac3a2-a5f6-4b4d-b2fa-be0cdc7ace39)
+2026-04-29 22:07:57,517 [INFO] Connected to a new endpoint...
+2026-04-29 22:07:57,536 [INFO] Stopped receiving messages from a connection (session id: f6f75285-d920-46f0-a90a-41e98a4a522d)
+2026-04-29 22:07:57,637 [INFO] Starting to receive messages from a new connection (session id: 43dac3a2-a5f6-4b4d-b2fa-be0cdc7ace39)
+2026-04-29 22:07:57,642 [INFO] Connecting to a new endpoint...
+2026-04-29 22:08:00,642 [INFO] The connection has been closed (session id: 43dac3a2-a5f6-4b4d-b2fa-be0cdc7ace39)
+2026-04-29 22:08:00,643 [INFO] The session seems to be already closed. Reconnecting... (session id: 43dac3a2-a5f6-4b4d-b2fa-be0cdc7ace39)
+2026-04-29 22:08:00,644 [INFO] A new session has been established (session id: df443155-7ce2-45d6-886c-8cf9c3cc99b6)
+2026-04-29 22:08:00,645 [INFO] Connected to a new endpoint...
+2026-04-29 22:08:00,659 [INFO] Stopped receiving messages from a connection (session id: 43dac3a2-a5f6-4b4d-b2fa-be0cdc7ace39)
+2026-04-29 22:08:00,760 [INFO] Starting to receive messages from a new connection (session id: df443155-7ce2-45d6-886c-8cf9c3cc99b6)
+2026-04-29 22:08:00,764 [INFO] Connecting to a new endpoint...
+2026-04-29 22:08:03,765 [INFO] The connection has been closed (session id: df443155-7ce2-45d6-886c-8cf9c3cc99b6)
+2026-04-29 22:08:03,766 [INFO] A new session has been established (session id: 6423ab31-a6d2-4da6-baeb-21130300c063)
+2026-04-29 22:08:03,767 [INFO] Connected to a new endpoint...
+2026-04-29 22:08:03,785 [INFO] Stopped receiving messages from a connection (session id: df443155-7ce2-45d6-886c-8cf9c3cc99b6)
+2026-04-29 22:08:03,887 [INFO] Starting to receive messages from a new connection (session id: 6423ab31-a6d2-4da6-baeb-21130300c063)
+2026-04-29 23:35:49,235 [INFO] 送信開始: ['aircon:on:cooler']
+2026-04-30 03:08:09,236 [INFO] Connecting to a new endpoint...
+2026-04-30 03:08:12,240 [INFO] The connection has been closed (session id: 6423ab31-a6d2-4da6-baeb-21130300c063)
+2026-04-30 03:08:12,241 [INFO] A new session has been established (session id: 87d292f3-5543-4606-84a9-b144e0a6a327)
+2026-04-30 03:08:12,242 [INFO] Connected to a new endpoint...
+2026-04-30 03:08:12,257 [INFO] Stopped receiving messages from a connection (session id: 6423ab31-a6d2-4da6-baeb-21130300c063)
+2026-04-30 03:08:12,358 [INFO] Starting to receive messages from a new connection (session id: 87d292f3-5543-4606-84a9-b144e0a6a327)
+2026-04-30 03:12:27,273 [INFO] 送信開始: ['light:warm', 'light:dark', 'light:dark', 'aircon:off']
+2026-04-30 03:12:40,562 [INFO] 送信開始: ['light:dark']
+2026-04-30 03:50:03,482 [INFO] 送信開始: ['light:warm']
+2026-04-30 03:58:14,133 [INFO] 送信開始: ['light:dark']
+2026-04-30 08:08:12,479 [INFO] Connecting to a new endpoint...
+2026-04-30 08:08:15,483 [INFO] The connection has been closed (session id: 87d292f3-5543-4606-84a9-b144e0a6a327)
+2026-04-30 08:08:15,484 [INFO] The session seems to be already closed. Reconnecting... (session id: 87d292f3-5543-4606-84a9-b144e0a6a327)
+2026-04-30 08:08:15,484 [INFO] A new session has been established (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
+2026-04-30 08:08:15,485 [INFO] Connected to a new endpoint...
+2026-04-30 08:08:15,500 [INFO] Stopped receiving messages from a connection (session id: 87d292f3-5543-4606-84a9-b144e0a6a327)
+2026-04-30 08:08:15,601 [INFO] Starting to receive messages from a new connection (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
+2026-04-30 09:20:03,560 [INFO] 送信開始: ['light:on']
+2026-04-30 12:01:27,066 [INFO] Unable to send a ping message. Closing the connection... (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321, reason: TLS/SSL connection has been closed (EOF) (_ssl.c:2393))
+2026-04-30 12:01:27,078 [INFO] The connection has been closed (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
+2026-04-30 12:01:27,086 [INFO] The session seems to be already closed. Reconnecting... (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
+2026-04-30 12:01:27,087 [INFO] Connecting to a new endpoint...
+2026-04-30 12:01:28,682 [INFO] The connection has been closed (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
+2026-04-30 12:01:28,683 [INFO] A new session has been established (session id: a9c41b99-2926-4087-865c-a00fe7b0b98c)
+2026-04-30 12:01:28,683 [INFO] Connected to a new endpoint...
+2026-04-30 12:01:28,880 [INFO] Stopped receiving messages from a connection (session id: 7ce7763f-16aa-4b42-9a1c-a535be948321)
+2026-04-30 12:01:28,980 [INFO] Starting to receive messages from a new connection (session id: a9c41b99-2926-4087-865c-a00fe7b0b98c)

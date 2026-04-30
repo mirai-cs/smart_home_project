@@ -1,0 +1,8 @@
+.env
+slack_test/slack_app/
+# キャッシュファイルを除外
+__pycache__/
+*.pyc
+
+# バックアップファイルを除外
+*.bak*

@@ -43,7 +43,8 @@ COMMAND_MAP = {
     "aircon cooler": ["aircon:on:cooler"],
     "aircon dry": ["aircon:on:dry"],
     "aircon off": ["aircon:off"],
-    "all off": ["light:warm","light:dark","light:dark","aircon:off"]
+    "all off": ["light:warm","light:dark","light:dark","aircon:off"],
+    "light alarm" :["light:on","light:dark","light:on","light:dark","light:on"]
 }
 
 def get_status_text():
